@@ -1,3 +1,3 @@
-# Hello !!!
 def fizzbuzz(number)
+  'fizz'
 end
